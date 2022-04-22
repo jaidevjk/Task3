@@ -1,0 +1,5 @@
+{
+"dbURI": "mongodb+srv://jaidevk:4AL15ME715@cluster0.kmhzh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+ "jwtsecret": "4ff43b8149cc1ebcd6fc36d0e6042d752fb47be50a1e69d86fe4bdffd406be69",
+   "StripeAPIKey":"sk_test_51KqTBBSFemHPsZ5TWJUFM9CMDpGPm6qjcTS5rM7GWl2xgtZwZ7XpJMxXwjkPv8KIlNjveekYTPu5J1j3tjio1g1o004nHQSIED"
+}
